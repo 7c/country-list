@@ -1,3 +1,6 @@
 Dockerfile
 docker-compose.yml
 vendor
+release.sh
+package-lock.json
+node_modules/
